@@ -1,6 +1,6 @@
 # LearnChain
 
-A blockchain implementation built from scratch.
+A blockchain implementation built from scratch using websockets.
 
 # Details
 
